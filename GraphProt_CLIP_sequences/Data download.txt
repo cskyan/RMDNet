@@ -1,1 +1,0 @@
-Download the trainig and testing data from http://www.bioinf.unifreiburg.de/Software/GraphProt/GraphProt_CLIP_sequences.tar.bz2 
