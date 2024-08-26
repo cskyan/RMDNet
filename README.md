@@ -3,7 +3,7 @@ We propose a deep learning model integrated with the Dung Beetle Optimization Al
 # Data
 We have made the RBP-24 dataset available, which can also be downloaded from http://www.bioinf.uni-freiburg.de/Software/GraphProt/GraphProt_CLIP_sequences.tar.bz2.
 # Dependency
-python 3.7.0
+python 3.7.0 
 Pytorch 1.4.0
 # Usage
 python main.py
