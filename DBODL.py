@@ -7,7 +7,7 @@ sys.path.insert(0, BASE_DIR)
 import numpy as np
 np.set_printoptions(threshold=np.inf)
 import pdb
-sys.path.append('/home/jiangbo/PhD/DBODL')
+sys.path.append('/home/.../PhD/DBODL')
 import torch    
 import torch.nn as nn
 from torch.autograd import Variable
