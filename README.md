@@ -1,7 +1,7 @@
 # DBODL
 We propose a deep learning model integrated with the Dung Beetle Optimization Algorithm (DBO) for the prediction of RNA-protein binding sites. This model incorporates an Improved Dung Beetle Optimization Algorithm (IDBO) into the Weighted Voting Deep Learning (WVDL) , enhancing the prediction accuracy from RNA sequences.
 # Data
-We have made the RBP-24 dataset available, which can also be downloaded from http://www.bioinf.uni-freiburg.de/Software/GraphProt/GraphProt_CLIP_sequences.tar.bz2.
+We use the RBP-24 dataset, which can be downloaded from http://www.bioinf.uni-freiburg.de/Software/GraphProt/GraphProt_CLIP_sequences.tar.bz2.
 # Dependency
 python 3.7.0
 
