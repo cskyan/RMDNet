@@ -24,17 +24,17 @@ All datasets used in this study are publicly available. The RBP-24 dataset can b
 RNAfold (from ViennaRNA package) is required to generate RNA secondary structures.
 You can install it via:
 
-<pre> ```bash sudo apt install vienna-rna ``` </pre>
+<pre> sudo apt install vienna-rna </pre>
 
 or download from: https://www.tbi.univie.ac.at/RNA/
 # Usage
 🧠 Model Training & Prediction
 Use main.py to train the model and predict RNA–protein binding sites for a specific RBP:
-<pre> ```bash python main.py ``` </pre>
+<pre> python main.py </pre>
 
 🎯 Motif Extraction
 Use motif.py to extract interpretable sequence motifs from the first-layer CNN kernels after training:
-<pre> ```python motif.py ``` </pre>
+<pre> python motif.py </pre>
 This will generate and save sequence logos representing learned motifs for the specified RBP.
 
 The parameters in the code are adjustable, with some specified in the DBO.py. Please adjust according to your supported environment.
