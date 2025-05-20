@@ -29,10 +29,12 @@ You can install it via:
 or download from: https://www.tbi.univie.ac.at/RNA/
 # Usage
 🧠 Model Training & Prediction
+
 Use main.py to train the model and predict RNA–protein binding sites for a specific RBP:
 <pre> python main.py </pre>
 
 🎯 Motif Extraction
+
 Use motif.py to extract interpretable sequence motifs from the first-layer CNN kernels after training:
 <pre> python motif.py </pre>
 This will generate and save sequence logos representing learned motifs for the specified RBP.
