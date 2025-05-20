@@ -5,7 +5,11 @@ RMDNet (RNA-aware Multi-branch Dung Beetle Optimization Network) is a deep learn
 # Data
 📁 Dataset support: RBP-24, RBP-31, RBPsuite2.0
 
-All datasets used in this study are publicly available. The RBP-24 dataset can be accessed at: http://www.bioinf.uni-freiburg.de/Software/GraphProt. The RBP-31 dataset is available at: https://github.com/mstrazar/iONMF. The RBPsuite2 dataset is available from Zenodo at: https://zenodo.org/records/14949530.
+All datasets used in this study are publicly available. The RBP-24 dataset can be accessed at: http://www.bioinf.uni-freiburg.de/Software/GraphProt. 
+
+The RBP-31 dataset is available at: https://github.com/mstrazar/iONMF. 
+
+The RBPsuite2 dataset is available from Zenodo at: https://zenodo.org/records/14949530.
 #  Environment & Dependencies
 🛠️This project was developed and tested under the following environment:
 
